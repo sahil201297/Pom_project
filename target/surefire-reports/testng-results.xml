@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24044" started-at="2020-08-20T12:15:31Z" finished-at="2020-08-20T12:15:55Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24044" started-at="2020-08-20T12:15:31Z" finished-at="2020-08-20T12:15:55Z">
+      <class name="com.Testcases.Login_Test">
+        <test-method status="PASS" signature="Launch()[pri:0, instance:com.Testcases.Login_Test@58134517]" name="Launch" is-config="true" duration-ms="25012" started-at="2020-08-20T12:15:06Z" finished-at="2020-08-20T12:15:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch -->
+        <test-method status="PASS" signature="checktitle()[pri:0, instance:com.Testcases.Login_Test@58134517]" name="checktitle" duration-ms="33" started-at="2020-08-20T12:15:31Z" finished-at="2020-08-20T12:15:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checktitle -->
+        <test-method status="PASS" signature="login_detail()[pri:0, instance:com.Testcases.Login_Test@58134517]" name="login_detail" duration-ms="16598" started-at="2020-08-20T12:15:32Z" finished-at="2020-08-20T12:15:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_detail -->
+        <test-method status="PASS" signature="end()[pri:0, instance:com.Testcases.Login_Test@58134517]" name="end" is-config="true" duration-ms="1072" started-at="2020-08-20T12:15:56Z" finished-at="2020-08-20T12:15:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- com.Testcases.Login_Test -->
+      <class name="com.Testcases.Home_test">
+        <test-method status="PASS" signature="demo()[pri:0, instance:com.Testcases.Home_test@4450d156]" name="demo" is-config="true" duration-ms="53" started-at="2020-08-20T12:15:48Z" finished-at="2020-08-20T12:15:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method status="PASS" signature="Admin()[pri:0, instance:com.Testcases.Home_test@4450d156]" name="Admin" duration-ms="5798" started-at="2020-08-20T12:15:48Z" finished-at="2020-08-20T12:15:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Admin -->
+        <test-method status="PASS" signature="log_out()[pri:0, instance:com.Testcases.Home_test@4450d156]" name="log_out" duration-ms="1471" started-at="2020-08-20T12:15:54Z" finished-at="2020-08-20T12:15:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- log_out -->
+      </class> <!-- com.Testcases.Home_test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
